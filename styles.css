@@ -4,9 +4,10 @@
 body{
     background-color: rgb(184, 214, 245);
     color: rgb(61, 60, 60);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 @media screen and (max-width:500px){
-    /*Any screen resolution from 0-500px wide, large tablet vibe */
+    /*Any screen resolution from 401-500px wide, large tablet vibe */
     body{
         background-color:rgb(57, 90, 180);
         color: white;
@@ -19,20 +20,4 @@ body{
         color: black;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
