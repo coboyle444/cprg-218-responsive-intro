@@ -25,6 +25,12 @@ main {
     padding: 20px;
 }
 
+#desktop{
+    background-color:rgb(218, 223, 205);
+    padding:1.4rem;
+    color:darkgreen;
+}
+
 nav {
     grid-area: nav;
     background-color: #ede4e4;
@@ -51,4 +57,13 @@ footer {
         /*Another option 
         display: block; */
     }
+    #desktop {
+        display:none;
+    }
+}
+
+/* Showing content on desktop but not on mobile.... */
+
+#desktop {
+
 }
