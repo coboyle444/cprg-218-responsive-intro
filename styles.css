@@ -12,6 +12,7 @@ body{
         background-color:rgb(57, 90, 180);
         color: white;
         font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size:130%;
     }
 }
 
@@ -20,6 +21,7 @@ body{
         background-color: rgb(228, 228, 190);
         color: black;
         font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size:130%;
     }
 }
 
