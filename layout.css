@@ -46,8 +46,9 @@ footer {
         "main"
         "nav"
         "footer"
+        ;
+        grid-template-columns: 1fr;
         /*Another option 
         display: block; */
-        grid-template-columns: 1fr;
     }
 }
